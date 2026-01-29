@@ -1,6 +1,7 @@
 # sarasa-font-magisk
+
 A Magisk module that replaces Android Roboto with Sarasa to change system font
-=======
+***
 
 You can use your favoured Sarasa font by replacing `Sarasa.ttf` and run `mod.py`. This Python script will automatically patch the font provided.
 
